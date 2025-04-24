@@ -1,0 +1,19 @@
+{
+    "compact": true,
+    "controlFlowFlattening": false,
+    "renameGlobals": false,
+    "reservedNames": [
+    "cart",
+    "products",
+    "form",
+    "mainContent",
+    "updateCartQuantity",
+    "updateCartList",
+    "userName",
+    "userTel",
+    "userEmail",
+    "userComment",
+    "themeToggle",
+    "contactForm"
+]
+}
